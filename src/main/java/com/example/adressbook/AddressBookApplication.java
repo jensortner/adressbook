@@ -11,6 +11,8 @@ public class  AddressBookApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AddressBookApplication.class, args);
+
+        //some crazy comment
     }
 /*
     @Bean
